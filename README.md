@@ -27,7 +27,6 @@
 
 💡 **Soft Skills:**
 - 🤝 Teamwork
-- 🧠 Adaptability
 - 🚀 Proactivity
 - 📚 Continuous Learning
 - 🧘‍♂️ Self-Management
