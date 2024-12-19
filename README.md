@@ -14,7 +14,7 @@
 
 🎓 **Education:**  
 - 📚 Bachelor's Degree in Computer Engineering, specializing in Information Systems.  
-- 🗣️ English: Intermediate (B1 level).
+- 🗣️ English: upper intermediate (B2 level).
 
 🌱 **Currently Learning:**  
 - 🔍 Exploring: Node.js, MongoDB and Angular.  
