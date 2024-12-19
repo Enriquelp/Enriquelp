@@ -69,4 +69,4 @@
 
 - 🎭 Member of the cultural association Requiem, which organizes activities promoting alternative leisure in Málaga and surrounding areas. 
 - 🎲 Tabletop RPG and LARP player.
-- 🎨 I paint Warhammer miniatures as a hobby. 
+- 🎨 I paint Warhammer miniatures as a hobby
